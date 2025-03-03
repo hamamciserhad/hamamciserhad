@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Serhad Hamamci!  
 
 - 🎓 I'm currently studying Computer Science at the University of Bremen.
-- 🚀 I'm developing projects on GitHub.  
 - 🌱 Currently, I'm working on:  
   - Terminology of operating systems and communication in concurrent systems  
   - Impact of memory management and file systems on system performance  
